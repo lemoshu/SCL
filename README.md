@@ -1,4 +1,4 @@
 # SCL
-[MedIA'24] Office implementation of SCL for multi-site SSL
+[MedIA'24] Official implementation of SCL for multi-site SSL
 
-Under construction.
+Under construction. Stay tuned!
